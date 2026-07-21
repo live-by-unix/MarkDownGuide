@@ -49,7 +49,6 @@ We will teach the following:
 * Block Quotes
 * Images
 * Tables
-* Task lists
 * Strikethrough
 * Emoji support
 
